@@ -1,0 +1,10 @@
+^C:\FLUTTER\LABA3\LABA3\BUILD\WINDOWS\X64\CMAKEFILES\DEE86F469737D580B5230D24FD564DF5\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

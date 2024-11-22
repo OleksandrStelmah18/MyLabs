@@ -1,0 +1,1 @@
+ C:\\flutter\\laba3\\laba3\\.dart_tool\\flutter_build\\0d14f19422c6a03f7c2670f74c199531\\native_assets.yaml: 
