@@ -1,0 +1,20 @@
+2024/11/29-11:05:01.450 24a0 Reusing MANIFEST C:\Users\Denis\AppData\Local\Temp\flutter_tools.9e5281af\flutter_tools_chrome_device.705b643\Default\shared_proto_db/MANIFEST-000001
+2024/11/29-11:05:01.451 24a0 Recovering log #16
+2024/11/29-11:05:01.454 24a0 Reusing old log C:\Users\Denis\AppData\Local\Temp\flutter_tools.9e5281af\flutter_tools_chrome_device.705b643\Default\shared_proto_db/000016.log 
+2024/11/29-11:05:01.455 24a0 Delete type=0 #3
+2024/11/29-11:05:01.455 24a0 Delete type=0 #4
+2024/11/29-11:05:01.455 24a0 Delete type=0 #7
+2024/11/29-11:05:01.455 24a0 Delete type=0 #10
+2024/11/29-11:05:01.456 24a0 Delete type=0 #13
+2024/11/29-11:05:13.923 2dcc Level-0 table #20: started
+2024/11/29-11:05:13.928 2dcc Level-0 table #20: 138620 bytes OK
+2024/11/29-11:05:13.930 2dcc Delete type=0 #16
+2024/11/29-11:05:13.930 2dcc Compacting 4@0 + 1@1 files
+2024/11/29-11:05:13.936 2dcc Generated table #21@0: 627 keys, 125783 bytes
+2024/11/29-11:05:13.936 2dcc Compacted 4@0 + 1@1 files => 125783 bytes
+2024/11/29-11:05:13.937 2dcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/29-11:05:13.938 2dcc Delete type=2 #8
+2024/11/29-11:05:13.938 2dcc Delete type=2 #11
+2024/11/29-11:05:13.938 2dcc Delete type=2 #14
+2024/11/29-11:05:13.938 2dcc Delete type=2 #17
+2024/11/29-11:05:13.938 2dcc Delete type=2 #20
